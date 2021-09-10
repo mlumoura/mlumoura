@@ -1,7 +1,7 @@
 - 👋 Olá, sou a Luiza ( @mlumoura)
 - 👀 Estou atualmente cursando o Bootcamp Capgemini Fullstack Java and Angular na Digital Innovation One.
 a-
-- 📫 Você pode me encontrar no meu email mlumouraweb@gmail.com ou no meu zap (55 21) 99455-9372
+- 📫 Você pode me encontrar no meu email mlumouraweb@gmail.com
 
 <!---
 mlumoura/mlumoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
