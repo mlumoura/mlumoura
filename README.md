@@ -1,5 +1,5 @@
 - 👋 Olá, sou a Luiza ( @mlumoura)
-- 👀 Estou atualmente cursando o Bootcamp Capgemini Fullstack Java and Angular na Digital Innovation One.
+- 👀 Estou atualmente cursando o Bootcamp MRV Fullstack Developer na Digital Innovation One.
 
 - 📫 Você pode me encontrar no meu email mlumouraweb@gmail.com
 
