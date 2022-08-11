@@ -1,9 +1,10 @@
 - 👋 Olá, sou a Luiza ( @mlumoura)
-- 👀 Estou atualmente cursando o Bootcamp MRV Fullstack Developer na Digital Innovation One.
+- 👀 Estou atualmente cursando o Santander Bootcamp Mobile
+Developer na Digital Innovation One, CC50: Introdução à Ciência
+da Computação e o Front End F2T2
+– ONE da Alura em parceria com a
+Oracle Next Education além da Pós Grduação em Projetos de Aplicativos Móveis pela Descomplica.
 
 - 📫 Você pode me encontrar no meu email mlumouraweb@gmail.com
 
-<!---
-mlumoura/mlumoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
