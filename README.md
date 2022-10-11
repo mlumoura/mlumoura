@@ -1,9 +1,9 @@
 <h1 align="center"> Hello! Welcome to my Github profile 👋 </h1>
 <h2 align="center"> My name is Luiza and my nickname is @mlumoura! </h2><br>
 
-<p align="center">
-![](computer-games.gif)
-</p>
+
+                                                     ![](computer-games.gif)
+
 
 
 <br><br>
