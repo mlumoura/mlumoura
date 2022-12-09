@@ -8,7 +8,7 @@
 
 
 <br>
-<h4> 🌱 I'm currently studying the NTT DATA Diversity in Tech at Digital Innovation One.</h4> <br>
+<h4> 🌱 I'm currently studying the formation Iniciante em Programação T4 from programa ONE - Alura-Oracle.</h4> <br>
 
 
 <h2> <img src="gerenciamento-de-projetos.png" width="40" height="40"/> Portfolio of developed projects</h2>
