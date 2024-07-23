@@ -8,7 +8,7 @@
 
 
 <br>
-<h4> 🌱 I'm finished the formation Oracle Next Education Back-end T4 and the 2nd module of Match IBM, class of August/2023. Current courses: Fundamentals of Python 1 at Networking Academy - CISCO and Google Data Analytics Professional Certificate</h4> <br>
+<h4> 🌱 Hello! I am currently dedicated to studying SQL, Machine Learning, Python.</h4> <br>
 
 
 <h2> <img src="gerenciamento-de-projetos.png" width="40" height="40"/> Portfolio of developed projects</h2>
