@@ -34,7 +34,7 @@ Here are some of the technologies I've worked with:
 
 ## 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=linux,github,vscode,figma,canva,trello,heroku,androidstudio,visualstudio,codepen,fedora,intellij" />
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,canva,trello,visualstudio,codepen,intellij Fleet" />
 
 ---
 
