@@ -19,23 +19,35 @@ I'm currently focused on learning and practicing:
 I love organizing ideas, building interactive interfaces, and stitching together knowledge with creativity 🧶
 
 ---
+🛠️ Tools & Technologies I've Explored
 
-## 🧵 Portfolio of Projects
+Ao longo dos meus estudos e projetos práticos, já tive contato com diversas ferramentas e tecnologias. Muitas delas foram utilizadas em projetos de aprendizado, onde fui costurando conhecimento com curiosidade e pesquisa constante.
 
-Here are some of the technologies I've worked with:
+💻 Linguagens & Frameworks
+Java, JavaScript, HTML, CSS, Python, C#
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Flask, Spring MVC, Spring Boot, JSP, Thymeleaf
 
----
+🧩 Bibliotecas & APIs
+DataTables.js
 
-## 🛠️ Tools & Technologies
+Consumo de APIs REST (via fetch, axios)
 
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,canva,trello,visualstudio,codepen,intellij" />
+🗄️ Bancos de Dados & Ferramentas
+MySQL, SQLite, PostgreSQL, Oracle
 
+DBeaver, DB Browser for SQLite
+
+🧵 IDEs & Editores
+Visual Studio Code, NetBeans, IntelliJ IDEA, Fleet, Android Studio
+
+📊 Ciência de Dados & Visualização
+Jupyter Notebook, Pandas
+
+🧰 Outras ferramentas
+Trello, Canva, Figma, GitHub, CodePen
+
+⚠️ Observação: Muitas dessas ferramentas foram utilizadas em projetos de estudo. Ainda estou em processo de aprendizado e, em alguns casos, preciso consultar materiais e anotações para relembrar conceitos e comandos.
 
 ---
 
@@ -48,17 +60,6 @@ Here are some of the technologies I've worked with:
 
 ---
 
-## 📚 Currently Studying
-
-<img src="https://skillicons.dev/icons?i=html,css,java,javascript,r,python,flask" />
-
----
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
----
 
 ## 📬 Contact Me
 
